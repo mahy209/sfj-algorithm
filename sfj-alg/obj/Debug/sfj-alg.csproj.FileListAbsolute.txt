@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\bin\Debug\sfj-alg.exe.config
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\bin\Debug\sfj-alg.exe
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\bin\Debug\sfj-alg.pdb
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\obj\Debug\sfj-alg.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\obj\Debug\sfj_alg.Form1.resources
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\obj\Debug\sfj_alg.Properties.Resources.resources
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\obj\Debug\sfj-alg.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\obj\Debug\sfj-alg.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\obj\Debug\sfj-alg.exe
+C:\Users\Dell\source\repos\sfj-alg\sfj-alg\obj\Debug\sfj-alg.pdb
